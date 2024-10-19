@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zel-hub7.Zel-hub7)
+![](https://visitor-badge.glitch.me/badge?page_id=Yishak123-sol.Yishak123-sol)
 
 <br />
 
@@ -35,14 +35,14 @@ Feel free to reach out if you have any questions or need assistance.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"/>
-  <a href = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"></a>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Yishak123-sol&theme=gotham"/>
+  <a href = "https://github-readme-streak-stats.herokuapp.com/?user=Yishak123-sol&theme=gotham"></a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zel-hub7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Yishak's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yishak123-sol&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Yishak's GitHub Stats">
   &emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zel-hub7&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Yishak's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yishak123-sol&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Yishak's Top Languages"/>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Zel-hub7&label=Profile%20views&color=0e75b6&style=flat" alt="YishakSolomon"/>
+  <img src="https://komarev.com/ghpvc/?username=Yishak123-sol&label=Profile%20views&color=0e75b6&style=flat" alt="YishakSolomon"/>
 </p>
