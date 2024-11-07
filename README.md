@@ -1,8 +1,8 @@
 ### Hey there!!!
-<a href="https://instagram.com/zola_a16?igshid=MzNlNGNkZWQ4Mg==">
+<a href="">
   <img align="left" alt="Yishak's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/zelalem-yohannes-40356a239/">
+<a href="">
  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
@@ -18,7 +18,7 @@ Feel free to reach out if you have any questions or need assistance.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 Any freelance work? Do reach out via [email](mailto:zelalemyohannes75@gmail.com) :)
+- 💼 Any freelance work? Do reach out via [email](mailto:yishaksolomon34@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
 
 **Languages and tools:**  
